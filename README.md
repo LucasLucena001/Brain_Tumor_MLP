@@ -54,8 +54,7 @@ Desenvolver um modelo de Rede Neural Artificial (MLP) para automatizar a classif
 
 1. **Clone o repositório:**
 ```bash
-git clone <repository-url>
-cd brain-tumor-classification
+git clone <https://github.com/LucasLucena001/Brain_Tumor_MLP.git>
 ```
 
 2. **Instale as dependências:**
@@ -70,7 +69,7 @@ pip install -r requirements.txt
 
 ### 1. Execução Completa do Projeto
 ```bash
-python brain_tumor_mlp.py
+python mlp_brain_tumor_real.py
 ```
 
 Este comando executa:
@@ -79,32 +78,6 @@ Este comando executa:
 - Treinamento do modelo MLP
 - Avaliação e métricas de performance
 - Geração de visualizações e relatórios
-
-### 2. Análise Avançada (Pós-Graduação)
-```bash
-python advanced_analysis.py
-```
-
-Inclui:
-- Comparação com múltiplos algoritmos
-- Curvas de aprendizado e validação
-- Análise de redução de dimensionalidade
-- Testes estatísticos avançados
-
-### 3. Exemplo de Uso do Modelo
-```bash
-python example_usage.py
-```
-
-Demonstra:
-- Predição de imagem única
-- Predição em lote
-- Carregamento de modelo salvo
-
-### 4. Gerar Gráficos Individuais
-```bash
-python gerar_graficos_individuais.py
-```
 
 Gera 6 gráficos separados:
 - Distribuição do dataset
@@ -167,8 +140,6 @@ Gera 6 gráficos separados:
 
 ```
 brain_tumor_mlp.py          # Classe principal do classificador
-advanced_analysis.py        # Análises avançadas para pós-graduação
-example_usage.py           # Exemplos de uso do modelo
 requirements.txt           # Dependências do projeto
 README.md                 # Documentação
 ```
@@ -373,4 +344,4 @@ O modelo MLP desenvolvido apresentou excelente performance na classificação de
 
 ---
 
-**Nota**: Este projeto representa o requisito mínimo da disciplina, mas vai além do básico explorando técnicas avançadas, análises estatísticas profundas e conexões com aplicações reais na medicina, demonstrando excelência acadêmica esperada em nível de pós-graduação.Atualização do README em Sun, Sep 14, 2025  4:54:57 PM
+**Nota**: Este projeto representa o requisito mínimo da disciplina, mas vai além do básico explorando técnicas avançadas, análises estatísticas profundas e conexões com aplicações reais na medicina, demonstrando excelência acadêmica esperada em nível de pós-graduação.
