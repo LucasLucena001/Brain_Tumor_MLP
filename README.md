@@ -373,4 +373,4 @@ O modelo MLP desenvolvido apresentou excelente performance na classificação de
 
 ---
 
-**Nota**: Este projeto representa o requisito mínimo da disciplina, mas vai além do básico explorando técnicas avançadas, análises estatísticas profundas e conexões com aplicações reais na medicina, demonstrando excelência acadêmica esperada em nível de pós-graduação.
+**Nota**: Este projeto representa o requisito mínimo da disciplina, mas vai além do básico explorando técnicas avançadas, análises estatísticas profundas e conexões com aplicações reais na medicina, demonstrando excelência acadêmica esperada em nível de pós-graduação.Atualização do README em Sun, Sep 14, 2025  4:54:57 PM
